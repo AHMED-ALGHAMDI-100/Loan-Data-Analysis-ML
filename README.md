@@ -10,6 +10,9 @@ Techniques Used:
 
 Handling missing values and NaN entries
 
+#Visualization
+the link: https://public.tableau.com/app/profile/ahmed.
+
 Data cleaning and preprocessing techniques tailored for credit risk management
 
 Exploratory data analysis (EDA) with visualizations

@@ -10,12 +10,14 @@ Techniques Used:
 
 Handling missing values and NaN entries
 
-#Visualization
-the link: https://public.tableau.com/app/profile/ahmed.
-
 Data cleaning and preprocessing techniques tailored for credit risk management
 
 Exploratory data analysis (EDA) with visualizations
 
 Key Focus:
 Preparing a high-quality dataset that can be effectively used for training ML models related to credit risk assessment.
+
+## 
+Visualization: 
+the link: https://public.tableau.com/app/profile/ahmed.
+##
